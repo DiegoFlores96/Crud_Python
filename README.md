@@ -1,16 +1,16 @@
-# Crud_Python
- Crud Simples com Python e Django 
+# Crud_Python<br>
+ Crud Simples com Python e Django <br>
 # Comandos Da criação do Projeto
 <br>
- Cria a Maquina virtual 
-#python -m venv venv
+ Cria a Maquina virtual <br>
+#python -m venv venv<br><br>
 
-deve - se  iniciar os  arquivi activete
-#Instala o Django
+deve - se  iniciar os  arquivi activete<br><br>
+#Instala o Django<br>
  pip install django<br>
   cria o projeto do Django  <br>
   django-admin startproject crud <br> 
   python  manage.py startapp app <br>
-# inicia o servidor  
+# inicia o servidor  <br>
 
 python  manage.py  runserver
