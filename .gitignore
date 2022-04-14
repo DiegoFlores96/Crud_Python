@@ -1,3 +1,1 @@
-.ide
-bd.sqlite3
-.app/__pycache__
+db
